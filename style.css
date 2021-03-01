@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body a{
+margin-left:3px;
+}
+
+p {
+  margin: 15px;
+}
+h1 {
+  margin: 9px;
+}
+
+body {
+    width:100%;
+    margin:0 auto;
+    font-family:'Arial', sans-serif;
+    line-height:1.5
+    }
+
+img {
+    width: 50%;
+    }
+
+nav ul {
+    list-style-type:none;
+    margin: 0; 
+    padding: 0;
+    background-color: Lavender; 
+    overflow: auto;
+    }
+nav ul li { float: left }
+
+nav ul li a {
+    display: block;     
+    color: black; 
+    text-align: center; 
+    padding: 14px 16px; 
+    text-decoration: none; 
+    }
